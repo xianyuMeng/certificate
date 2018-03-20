@@ -14,20 +14,17 @@ In this course, you will be learning the theory of computer graphics, as well as
 [https://courses.edx.org/certificates/1f8aac67481f45fdbcd86dad2fbde5dc](https://courses.edx.org/certificates/1f8aac67481f45fdbcd86dad2fbde5dc)
 
 
-### Andrew Ng, Head Teaching Assistant - Kian Katanforoosh & Teaching Assistant - Younes Bensouda Mourri deeplearning.ai
+### Coursera deeplearning.ai specialization 
+by Andrew Ng, Head Teaching Assistant - Kian Katanforoosh & Teaching Assistant - Younes Bensouda Mourri deeplearning.ai
 
 #### Neural Networks and Deep Learning
 [https://www.coursera.org/account/accomplishments/certificate/8X9SLVGPW8WK]
-(https://www.coursera.org/account/accomplishments/certificate/8X9SLVGPW8WK)
 
 #### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 [https://www.coursera.org/account/accomplishments/certificate/Z355LYR9AQZA]
-(https://www.coursera.org/account/accomplishments/certificate/Z355LYR9AQZA)
 
 #### Convolutional Neural Networks
 [https://www.coursera.org/account/accomplishments/certificate/N23GGUQLRTNS]
-(https://www.coursera.org/account/accomplishments/certificate/N23GGUQLRTNS)
 
 #### Sequence Models
 [https://www.coursera.org/account/accomplishments/certificate/BB7KZNKYF9V6]
-(https://www.coursera.org/account/accomplishments/certificate/BB7KZNKYF9V6)
