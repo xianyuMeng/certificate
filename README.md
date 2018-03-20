@@ -12,3 +12,19 @@ Probabilistic graphical models (PGMs) are a rich framework for encoding probabil
 In this course, you will be learning the theory of computer graphics, as well as implementing practical systems for both real-time and offline graphics that utilize this knowledge. The course consists of four units, each with lecture videos and a programming assignment due every week or once every two weeks. By the end, you would have implemented a real-time scene viewer in OpenGL and GLSL, as well as a full raytracer to create realistic images of 3D scenes.
 
 [https://courses.edx.org/certificates/1f8aac67481f45fdbcd86dad2fbde5dc](https://courses.edx.org/certificates/1f8aac67481f45fdbcd86dad2fbde5dc)
+
+
+####Andrew Ng, Head Teaching Assistant - Kian Katanforoosh & Teaching Assistant - Younes Bensouda Mourri
+deeplearning.ai
+####Neural Networks and Deep Learning
+[https://www.coursera.org/account/accomplishments/certificate/8X9SLVGPW8WK]
+(https://www.coursera.org/account/accomplishments/certificate/8X9SLVGPW8WK)
+####Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+[https://www.coursera.org/account/accomplishments/certificate/Z355LYR9AQZA]
+(https://www.coursera.org/account/accomplishments/certificate/Z355LYR9AQZA)
+####Convolutional Neural Networks
+[https://www.coursera.org/account/accomplishments/certificate/N23GGUQLRTNS]
+(https://www.coursera.org/account/accomplishments/certificate/N23GGUQLRTNS)
+####Sequence Models
+[https://www.coursera.org/account/accomplishments/certificate/BB7KZNKYF9V6]
+(https://www.coursera.org/account/accomplishments/certificate/BB7KZNKYF9V6)
